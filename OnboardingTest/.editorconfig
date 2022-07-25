@@ -1,0 +1,10 @@
+﻿[*.cs]
+
+# CS8602: Desreferencia de una referencia posiblemente NULL.
+dotnet_diagnostic.CS8602.severity = silent
+
+# CS8603: Posible tipo de valor devuelto de referencia nulo
+dotnet_diagnostic.CS8603.severity = silent
+
+# CS8613: La nulabilidad de los tipos de referencia en el tipo de valor devuelto no coincide con el miembro implementado de forma implícita
+dotnet_diagnostic.CS8613.severity = silent

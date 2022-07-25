@@ -1,0 +1,17 @@
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Repository\bin\Debug\net6.0\OnboardingTest.Repository.deps.json
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Repository\bin\Debug\net6.0\OnboardingTest.Repository.runtimeconfig.json
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Repository\bin\Debug\net6.0\OnboardingTest.Repository.dll
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Repository\bin\Debug\net6.0\OnboardingTest.Repository.pdb
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Repository\bin\Debug\net6.0\OnboardingTest.Entity.dll
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Repository\bin\Debug\net6.0\OnboardingTest.Entity.pdb
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Repository\obj\Debug\net6.0\OnboardingTest.Repository.csproj.AssemblyReference.cache
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Repository\obj\Debug\net6.0\OnboardingTest.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Repository\obj\Debug\net6.0\OnboardingTest.Repository.AssemblyInfoInputs.cache
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Repository\obj\Debug\net6.0\OnboardingTest.Repository.AssemblyInfo.cs
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Repository\obj\Debug\net6.0\OnboardingTest.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Repository\obj\Debug\net6.0\OnboardingTest.Repository.csproj.CopyComplete
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Repository\obj\Debug\net6.0\OnboardingTest.Repository.dll
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Repository\obj\Debug\net6.0\refint\OnboardingTest.Repository.dll
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Repository\obj\Debug\net6.0\OnboardingTest.Repository.pdb
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Repository\obj\Debug\net6.0\OnboardingTest.Repository.genruntimeconfig.cache
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Repository\obj\Debug\net6.0\ref\OnboardingTest.Repository.dll

@@ -1,0 +1,12 @@
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Entities\bin\Debug\net6.0\OnboardingTest.Entity.deps.json
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Entities\bin\Debug\net6.0\OnboardingTest.Entity.dll
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Entities\bin\Debug\net6.0\OnboardingTest.Entity.pdb
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Entities\obj\Debug\net6.0\OnboardingTest.Entity.csproj.AssemblyReference.cache
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Entities\obj\Debug\net6.0\OnboardingTest.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Entities\obj\Debug\net6.0\OnboardingTest.Entity.AssemblyInfoInputs.cache
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Entities\obj\Debug\net6.0\OnboardingTest.Entity.AssemblyInfo.cs
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Entities\obj\Debug\net6.0\OnboardingTest.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Entities\obj\Debug\net6.0\OnboardingTest.Entity.dll
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Entities\obj\Debug\net6.0\refint\OnboardingTest.Entity.dll
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Entities\obj\Debug\net6.0\OnboardingTest.Entity.pdb
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Entities\obj\Debug\net6.0\ref\OnboardingTest.Entity.dll

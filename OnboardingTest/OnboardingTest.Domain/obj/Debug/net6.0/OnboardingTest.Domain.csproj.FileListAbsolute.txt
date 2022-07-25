@@ -1,0 +1,15 @@
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Domain\bin\Debug\net6.0\OnboardingTest.Domain.deps.json
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Domain\bin\Debug\net6.0\OnboardingTest.Domain.dll
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Domain\bin\Debug\net6.0\OnboardingTest.Domain.pdb
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Domain\bin\Debug\net6.0\OnboardingTest.Entity.dll
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Domain\bin\Debug\net6.0\OnboardingTest.Entity.pdb
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Domain\obj\Debug\net6.0\OnboardingTest.Domain.csproj.AssemblyReference.cache
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Domain\obj\Debug\net6.0\OnboardingTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Domain\obj\Debug\net6.0\OnboardingTest.Domain.AssemblyInfoInputs.cache
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Domain\obj\Debug\net6.0\OnboardingTest.Domain.AssemblyInfo.cs
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Domain\obj\Debug\net6.0\OnboardingTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Domain\obj\Debug\net6.0\OnboardingTest.Domain.csproj.CopyComplete
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Domain\obj\Debug\net6.0\OnboardingTest.Domain.dll
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Domain\obj\Debug\net6.0\refint\OnboardingTest.Domain.dll
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Domain\obj\Debug\net6.0\OnboardingTest.Domain.pdb
+C:\Users\Richard\Desktop\OnboardingTest\OnboardingTest\OnboardingTest.Domain\obj\Debug\net6.0\ref\OnboardingTest.Domain.dll

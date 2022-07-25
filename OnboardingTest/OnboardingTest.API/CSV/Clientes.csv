@@ -1,0 +1,21 @@
+﻿Identificacion;Nombres;Apellidos;Edad;FechaNacimiento;Direccion;EstadoCivil;IdentificacionConyugue;NombreConyugue;SujetoCredito;Telefono
+1000000000;Juan;Perez;25;1/1/1997;Av. Casa;Casado;2000000000;Carla Mendoza;True;900000000
+1000000001;Juan1;Perez1;26;1/1/1996;Av. Casa1;Soltero;;;True;900000000
+1000000002;Juan2;Perez2;27;1/1/1995;Av. Casa2;Casado;2000000001;Carla1 Mendoza1;True;900000000
+1000000003;Juan3;Perez3;28;1/1/1994;Av. Casa3;Soltero;;;True;900000000
+1000000004;Juan4;Perez4;29;1/1/1993;Av. Casa4;Casado;2000000002;Carla2 Mendoza2;True;900000000
+1000000005;Juan5;Perez5;30;1/1/1992;Av. Casa5;Soltero;;;True;900000000
+1000000006;Juan6;Perez6;31;1/1/1991;Av. Casa6;Casado;2000000003;Carla3 Mendoza3;False;900000000
+1000000007;Juan7;Perez7;32;1/1/1990;Av. Casa7;Soltero;;;False;900000000
+1000000008;Juan8;Perez8;33;1/1/1989;Av. Casa8;Casado;2000000004;Carla4 Mendoza4;True;900000000
+1000000009;Juan9;Perez9;34;1/1/1988;Av. Casa9;Soltero;;;True;900000000
+1000000010;Juan10;Perez10;35;1/1/1987;Av. Casa10;Casado;2000000005;Carla5 Mendoza5;True;900000000
+1000000011;Juan11;Perez11;36;1/1/1986;Av. Casa11;Soltero;;;False;900000000
+1000000012;Juan12;Perez12;37;1/1/1985;Av. Casa12;Casado;2000000006;Carla6 Mendoza6;False;900000000
+1000000013;Juan13;Perez13;38;1/1/1984;Av. Casa13;Soltero;;;True;900000000
+1000000014;Juan14;Perez14;39;1/1/1983;Av. Casa14;Casado;2000000007;Carla7 Mendoza7;True;900000000
+1000000015;Juan15;Perez15;40;1/1/1982;Av. Casa15;Soltero;;;True;900000000
+1000000016;Juan16;Perez16;41;1/1/1981;Av. Casa16;Casado;2000000008;Carla8 Mendoza8;False;900000000
+1000000017;Juan17;Perez17;42;1/1/1980;Av. Casa17;Soltero;;;True;900000000
+1000000018;Juan18;Perez18;43;1/1/1979;Av. Casa18;Casado;2000000009;Carla9 Mendoza9;True;900000000
+1000000019;Juan19;Perez19;44;1/1/1978;Av. Casa19;Soltero;;;True;900000000
