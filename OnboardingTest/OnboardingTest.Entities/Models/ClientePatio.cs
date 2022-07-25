@@ -11,7 +11,7 @@ namespace OnboardingTest.Entity.Models
         public int IdPatio { get; set; }
         public DateOnly FechaAsignacion { get; set; }
 
-        public virtual Cliente IdClienteNavigation { get; set; } = null!;
-        public virtual Patio IdPatioNavigation { get; set; } = null!;
+        public virtual Cliente? IdClienteNavigation { get; set; } = null!;
+        public virtual Patio? IdPatioNavigation { get; set; } = null!;
     }
 }

@@ -20,7 +20,7 @@ namespace OnboardingTest.Entity.Models
         public decimal Avaluo { get; set; }
         public int Anio { get; set; }
 
-        public virtual Marca IdMarcaNavigation { get; set; } = null!;
+        public virtual Marca? IdMarcaNavigation { get; set; } = null!;
         public virtual ICollection<SolicitudCredito> SolicitudCreditos { get; set; }
     }
 }
